@@ -1,4 +1,4 @@
-# Explainable-TADDY-X-TADDY-
+# Explainable TADDY: X-TADDY
 Implementation of X-TADDY, a Post-Hoc Explainability Method for Transformer Based Anomaly Detection in Dynamic Graphs
 > **Post-hoc Shapley explainability framework for Transformer-based dynamic graph anomaly detection.**
 
